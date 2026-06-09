@@ -8,7 +8,7 @@ This study utilised data from the National Health and Nutrition Examination Surv
 ### Results 
 Both models demonstrated moderate and comparable discriminative ability, achieving ROC-AUC values of 0.758 (95% CI: 0.718–0.798) for Logistic Regression and 0.760 (95% CI: 0.723–0.798) for Random Forest. DeLong’s test confirmed no significant difference between models (p = 0.962). Logistic Regression achieved higher sensitivity (0.627 vs 0.530), identifying a greater proportion of depressed individuals. Food insecurity and younger age emerged as the most influential predictors of depression. Performance was comparable between males and females but varied across age groups, with both models performing worst among adults aged 18–35 years.
 ### Conclusions: 
-Both models achieved moderate discrimination using only variables obtainable without laboratory investigation. These findings suggest clinically useful depression risk stratification may be achievable using readily obtainable health and socioeconomic data. Logistic Regression may be preferable for screening applications due to its higher sensitivity and greater interpretability. Further external validation would be required.
+Both models achieved comparable moderate discrimination using only variables obtainable without laboratory investigation. These findings suggest clinically useful depression risk stratification may be achievable using readily obtainable sociodemographic, socioeconomic, lifestyle and clinical data. Logistic Regression may be preferable for screening applications due to its higher sensitivity and greater interpretability. Further external validation would be required.
 
 ## Dataset
 Data sourced from NHANES 2021–2023 (Cycle L), available at:
